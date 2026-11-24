@@ -1,0 +1,10 @@
+# Hospital Hub
+
+> Find nearby hospitals, check blood availability in real-time, and access crucial healthcare information all in one place.
+
+## Pages
+
+- [Hospital Hub](https://code-for-change-nine.vercel.app/)
+- [Find Hospitals in India](https://code-for-change-nine.vercel.app/hospitals)
+- [Find Blood Banks in India](https://code-for-change-nine.vercel.app/blood-bank)
+- [Health News](https://code-for-change-nine.vercel.app/health-news)
